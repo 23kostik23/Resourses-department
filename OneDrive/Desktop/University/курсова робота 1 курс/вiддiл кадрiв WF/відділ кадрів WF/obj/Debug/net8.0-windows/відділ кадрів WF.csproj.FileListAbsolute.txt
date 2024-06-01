@@ -1,0 +1,44 @@
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\bin\Debug\net8.0-windows\відділ кадрів WF.exe
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\bin\Debug\net8.0-windows\відділ кадрів WF.deps.json
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\bin\Debug\net8.0-windows\відділ кадрів WF.runtimeconfig.json
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\bin\Debug\net8.0-windows\відділ кадрів WF.dll
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\bin\Debug\net8.0-windows\відділ кадрів WF.pdb
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ_кадрів_WF.Form1.resources
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.csproj.GenerateResource.cache
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.AssemblyInfoInputs.cache
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.AssemblyInfo.cs
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.csproj.CoreCompileInputs.cache
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.dll
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\refint\відділ кадрів WF.dll
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.pdb
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.genruntimeconfig.cache
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\ref\відділ кадрів WF.dll
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ_кадрів_WF.HireForm.resources
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ_кадрів_WF.FireForm.resources
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ_кадрів_WF.SearchForm.resources
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ_кадрів_WF.AfterSearchForm.resources
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ_кадрів_WF.EditForm.resources
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\відділ кадрів WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ_кадрів_WF.EditAfterSearchForm.resources
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\bin\Debug\net8.0-windows\відділ кадрів WF.exe
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\bin\Debug\net8.0-windows\відділ кадрів WF.deps.json
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\bin\Debug\net8.0-windows\відділ кадрів WF.runtimeconfig.json
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\bin\Debug\net8.0-windows\відділ кадрів WF.dll
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\bin\Debug\net8.0-windows\відділ кадрів WF.pdb
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ_кадрів_WF.AfterSearchForm.resources
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ_кадрів_WF.EditAfterSearchForm.resources
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ_кадрів_WF.EditForm.resources
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ_кадрів_WF.FireForm.resources
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ_кадрів_WF.Form1.resources
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ_кадрів_WF.HireForm.resources
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ_кадрів_WF.SearchForm.resources
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.csproj.GenerateResource.cache
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.AssemblyInfoInputs.cache
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.AssemblyInfo.cs
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.csproj.CoreCompileInputs.cache
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.dll
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\refint\відділ кадрів WF.dll
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.pdb
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\відділ кадрів WF.genruntimeconfig.cache
+C:\Users\kk648\OneDrive\Desktop\University\курсова робота 1 курс\вiддiл кадрiв WF\відділ кадрів WF\obj\Debug\net8.0-windows\ref\відділ кадрів WF.dll

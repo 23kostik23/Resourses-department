@@ -1,0 +1,23 @@
+Наказ про зміну параметрів робітника з роботи.
+БУЛО----------------------------
+Name: Lillia
+Surname: Tretiakova
+Age: 18
+Salary: 1200
+Sex: Female
+Education: BA
+Position: Manager
+Division: div3
+Date of Appearence: 28.05.2024 20:28:20
+Date of last Edit: 28.05.2024 20:28:20
+СТАЛО---------------------------
+Name: Lillia
+Surname: Tretiakova
+Age: 18
+Salary: 1200
+Sex: Female
+Education: BA
+Position: Manager
+Division: div4
+Date of Appearence: 28.05.2024 20:28:20
+Date of last Edit: 28.05.2024 20:28:38

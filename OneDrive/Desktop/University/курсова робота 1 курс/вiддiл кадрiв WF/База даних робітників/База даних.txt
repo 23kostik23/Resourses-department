@@ -1,0 +1,8 @@
+Name: Kostiantyn, Surname: Filei, Age: 18, Salary: 2000, Sex: Male, Education: BA, Position: Ceo, Division: div1, Date Of Appearence: 28.05.2024 20:26:29, Date Of Last Edit: 28.05.2024 20:26:29
+Name: Nikita, Surname: Shevchuk, Age: 18, Salary: 1200, Sex: Male, Education: BA, Position: Manager, Division: div2, Date Of Appearence: 28.05.2024 20:27:05, Date Of Last Edit: 28.05.2024 20:27:21
+Name: Ehor, Surname: Levchenko, Age: 21, Salary: 1200, Sex: Male, Education: BA, Position: Manager, Division: div3, Date Of Appearence: 28.05.2024 20:27:53, Date Of Last Edit: 28.05.2024 20:27:53
+Name: Lillia, Surname: Tretiakova, Age: 18, Salary: 1200, Sex: Female, Education: BA, Position: Manager, Division: div4, Date Of Appearence: 28.05.2024 20:28:20, Date Of Last Edit: 28.05.2024 20:28:38
+Name: Дарина, Surname: Петренко, Age: 23, Salary: 700, Sex: Female, Education: BA, Position: Cleaner, Division: div3, Date Of Appearence: 28.05.2024 20:29:09, Date Of Last Edit: 01.06.2024 14:38:44
+Name: Ehor, Surname: Zhigalin, Age: 19, Salary: 1, Sex: Non-binary, Education: No education, Position: Cleaner, Division: No division, Date Of Appearence: 28.05.2024 21:50:40, Date Of Last Edit: 28.05.2024 21:50:41
+Name: Albert, Surname: Einstein, Age: 60, Salary: 1200, Sex: Male, Education: PhD, Position: Office, Division: div4, Date Of Appearence: 01.06.2024 13:39:45, Date Of Last Edit: 01.06.2024 13:39:45
+Name: Vito, Surname: Scaletto, Age: 30, Salary: 900, Sex: Male, Education: MA, Position: Security, Division: div1, Date Of Appearence: 01.06.2024 13:40:52, Date Of Last Edit: 01.06.2024 13:40:52

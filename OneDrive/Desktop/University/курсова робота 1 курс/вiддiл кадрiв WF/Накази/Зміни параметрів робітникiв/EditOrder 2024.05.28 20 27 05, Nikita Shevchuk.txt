@@ -1,0 +1,23 @@
+Наказ про зміну параметрів робітника з роботи.
+БУЛО----------------------------
+Name: Nikita
+Surname: Shevchuk
+Age: 18
+Salary: 1200
+Sex: Male
+Education: BA
+Position: Manager
+Division: div1
+Date of Appearence: 28.05.2024 20:27:05
+Date of last Edit: 28.05.2024 20:27:05
+СТАЛО---------------------------
+Name: Nikita
+Surname: Shevchuk
+Age: 18
+Salary: 1200
+Sex: Male
+Education: BA
+Position: Manager
+Division: div2
+Date of Appearence: 28.05.2024 20:27:05
+Date of last Edit: 28.05.2024 20:27:21
